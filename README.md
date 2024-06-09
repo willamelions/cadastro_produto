@@ -4,10 +4,10 @@
 ### Step by step
 Clone Repository
 ```sh
-git clone https://github.com/willamelions/crud-produto.git app-laravel
+git clone https://github.com/willamelions/crud-produto.git app
 ```
 ```sh
-cd app-laravel
+cd app
 ```
 
 
